@@ -73,7 +73,7 @@ button{
     border-radius: 15px;
     text-shadow: 1px 1px 3px white;
     
-    box-shadow: inset 3px 3px 4px rgb(153, 78, 78);
+    box-shadow: inset 3px 3px 4px white;
 }
 button:hover{
     color:white;
